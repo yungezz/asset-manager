@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwindup_ui=self.webpackChunkwindup_ui||[]).push([[178],{86178:(i,u,n)=>{n.r(u),n.d(u,{default:()=>l});n(47313);var d=n(97890),e=n(96093),s=n(53566),c=n(46417);const l=()=>{const i=(0,d.bx)();return(0,c.jsx)(e.NP,{children:(0,c.jsx)(s.eo,{applicationId:null===i||void 0===i?void 0:i.id})})}}}]);

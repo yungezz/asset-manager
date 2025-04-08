@@ -1,0 +1,1 @@
+{"id":"LoadIssueCategoriesRuleProvider_attachToGraph","content":"addRule()\n\t.perform(org.jboss.windup.reporting.category.LoadIssueCategoriesRuleProvider$1@5867d8c\n)\nwithId(\"LoadIssueCategoriesRuleProvider_attachToGraph\")"}

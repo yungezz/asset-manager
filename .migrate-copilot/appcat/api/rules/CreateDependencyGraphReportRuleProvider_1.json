@@ -1,0 +1,1 @@
+{"id":"CreateDependencyGraphReportRuleProvider_1","content":"addRule()\n\t.when(org.jboss.windup.rules.apps.java.condition.SourceMode@12b84ed5\n)\n\t.perform(org.jboss.windup.rules.apps.java.reporting.rules\n\t\t\t\n\t\t.CreateDependencyGraphReportRuleProvider$CreateDependencyGraphReportOperation@526\n\t\t\t0e31\n)\nwithId(\"CreateDependencyGraphReportRuleProvider_1\")"}

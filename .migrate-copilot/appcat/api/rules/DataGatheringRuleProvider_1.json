@@ -1,0 +1,1 @@
+{"id":"DataGatheringRuleProvider_1","content":"addRule()\n\t.perform(org.jboss.windup.reporting.data.rules.DataGatheringRuleProvider$1@2f41e259\n)\nwithId(\"DataGatheringRuleProvider_1\")"}

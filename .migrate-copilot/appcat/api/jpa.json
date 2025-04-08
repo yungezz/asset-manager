@@ -1,0 +1,1 @@
+[{"applicationId":"127176","entities":[{"entityName":"ImageMetadata","className":"com.microsoft.migration.assets.worker.model.ImageMetadata","classFileId":"69752","tableName":"ImageMetadata"}],"namesQueries":[],"jpaConfigurations":[]}]

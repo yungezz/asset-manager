@@ -1,0 +1,1 @@
+{"id":"createTechReport","content":"addRule()\n\t.perform(org.jboss.windup.reporting.rules.generation.techreport\n\t\t\t.CreateTechReportRuleProvider$CreateTechReportPunchCardOperation@2b756ca\n)\nwithId(\"createTechReport\")"}
